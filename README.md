@@ -1,10 +1,23 @@
-## CREATED FOR ETHGLOBAL NEW YORK
+<div align="center">
+	<img src="https://em-content.zobj.net/source/apple/419/frog_1f438.png" align="center" width=180 heihgt=180/>
+  <h1>Pepetuals</h1>
+	<p align="center">
+    <a href="https://ethglobal.com/showcase/pepetuals-kyyw9">ETHGlobal Showcase</a>
+		<br/>
+		<a href="#about">About This Project</a>
+		·
+		<a href="#deploy">Deploy</a>
+  	</p>
+	<br/>
+</div>
 
-https://ethglobal.com/showcase/pepetuals-kyyw9
+<div align="center">
+  <img width="398" alt="image" src="https://github.com/patrick-hacks/Pepetuals/assets/72362902/da1f8288-6a7b-4b89-98f1-6e168b252374">
+</div>
 
-<img width="398" alt="image" src="https://github.com/patrick-hacks/Pepetuals/assets/72362902/da1f8288-6a7b-4b89-98f1-6e168b252374">
+<br/>
 
-# Pepetuals
+# About
 
 This project is a new approach to perpetual onchain futures. There have been quite a few approaches in the past, but we believe that none of them match our idea, especially in terms of stability.
 
